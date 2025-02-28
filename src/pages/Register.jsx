@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Register() {
   return (
-    <div className='border-3 border-black-500 w-[400px] block m-auto'>
+    <div className=' border-3 border-black-500 w-[400px] block m-auto'>
         <h1 className='text-center mt-4 font-bold text-2xl'>Register</h1>
         <form action="post" className='p-4'>
             <div>
