@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 body{
-  background-image: url("../src/assets/bg.avif");
+  background-image: url("https://img.itch.zone/aW1nLzEzNzczMjU3LmdpZg==/original/W%2Fd8%2BO.gif");
   font-family: "Pixelify Sans";
+  background-size: contain;
 }

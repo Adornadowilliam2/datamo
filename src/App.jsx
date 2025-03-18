@@ -48,7 +48,8 @@ function App() {
   });
 
   return (
-    <ThemeProvider theme={theme}>  
+    <ThemeProvider theme={theme}>
+    <Box className="text-white bg-gray-400 fixed left-0 right-0 p-2">GradeCalculator</Box>  
       <Box className="App flex h-[100vh] justify-center items-center flex-col">
         <FormControl className='bg-white ' sx={{ p: 2 }}>
           <Typography className='text-red-500 font-bold text-2xl'>
