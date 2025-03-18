@@ -52,7 +52,7 @@ function App() {
     <Box className="text-white bg-gray-400 fixed left-0 right-0 p-2">GradeCalculator</Box>  
       <Box className="App flex h-[100vh] justify-center items-center flex-col">
         <FormControl className='bg-white ' sx={{ p: 2 }}>
-          <Typography className='text-red-500 font-bold text-2xl'>
+          <Typography className='text-gray-900 font-bold text-2xl'>
             K-12 Grade Level Calculator (Philippines) based on Year 2005
           </Typography>
           <Box>
