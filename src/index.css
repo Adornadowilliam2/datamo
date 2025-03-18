@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body{
+  background-image: url("../src/assets/bg.avif");
+  font-family: "Pixelify Sans";
+}
